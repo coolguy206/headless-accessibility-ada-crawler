@@ -1,4 +1,4 @@
-# Universal Web Accessibility (ADA) Layout Crawler
+# Headless Accessibility ADA Crawler
 
 A platform-agnostic, automated headless browser web crawler designed to programmatically audit web applications and e-commerce templates for WCAG 2.1 AA and ADA compliance violations.
 
@@ -21,7 +21,7 @@ Web accessibility is legally and commercially critical, directly influencing dig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coolguy206/shopify-ada-crawler.git
+   git clone https://github.com/coolguy206/headless-accessibility-ada-crawler.git
    cd universal-web-ada-crawler
    ```
 
