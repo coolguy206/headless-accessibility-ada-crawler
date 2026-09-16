@@ -1,0 +1,25 @@
+# Dependency directories (Never commit node_modules)
+node_modules/
+jspm_packages/
+
+# Environment variables & secrets (CRITICAL for security)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Local audit output files (Keep spreadsheets out of git history)
+*.json
+*.csv
+!package.json
+!package-lock.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
