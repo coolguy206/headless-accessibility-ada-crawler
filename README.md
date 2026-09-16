@@ -22,7 +22,7 @@ Web accessibility is legally and commercially critical, directly influencing dig
 1. Clone the repository:
    ```bash
    git clone https://github.com/coolguy206/headless-accessibility-ada-crawler.git
-   cd universal-web-ada-crawler
+   cd headless-accessibility-ada-crawler
    ```
 
 2. Install dependencies:
